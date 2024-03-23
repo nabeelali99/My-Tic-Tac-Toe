@@ -1,2 +1,2 @@
-# My-Tic-Tac-Toe
-Tic Tac Toe Game Web Application
+# MyTicTacToe
+Tic Tac Toe Game
